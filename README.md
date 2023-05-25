@@ -60,7 +60,7 @@ Activité pratique N° 5 : Mise en oeuvre d'une architecture micro-service
 
 
 
-### Billing Service selon la donnée dont on a besoin (name dans le screenshot) : 
+### Billing Service selon la donnée dont on a besoin : 
 ![billing-service selo le besoin (name)](https://user-images.githubusercontent.com/86847138/200087460-274e02b2-2c3a-4e82-8319-53d9494e7404.PNG)
 
 
