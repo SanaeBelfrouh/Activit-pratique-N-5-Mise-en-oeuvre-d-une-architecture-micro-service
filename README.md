@@ -1,5 +1,9 @@
 Activité pratique N° 5 : Mise en oeuvre d'une architecture micro-service
+Objectif :  
+La création une application basée sur une architecture micro-service qui permet de gérer les factures contenant des produits et appartenant à un client.
+
 ## Première Partie 
+1.Créer le micro-service customer-service qui permet de gérer les client
 
 ![1](https://github.com/SanaeBelfrouh/Activit-pratique-N-5-Mise-en-oeuvre-d-une-architecture-micro-service/assets/116807307/3872f7df-1d84-452f-9670-f51ceb3adddf)
 ![2](https://github.com/SanaeBelfrouh/Activit-pratique-N-5-Mise-en-oeuvre-d-une-architecture-micro-service/assets/116807307/b0004c79-c7f4-4cfb-b9a5-6bb566bd3992)
