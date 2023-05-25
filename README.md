@@ -17,3 +17,10 @@ Activité pratique N° 5 : Mise en oeuvre d'une architecture micro-service
 ### Product H2 Console :
 
 ![P23](https://github.com/SanaeBelfrouh/Activit-pratique-N-5-Mise-en-oeuvre-d-une-architecture-micro-service/assets/116807307/8c46c3b0-a826-4986-8fee-febb40ffb7d2)
+
+### Customers with gateway : 
+![customers 8888](https://user-images.githubusercontent.com/86847138/200060024-cdac0216-3801-4944-bf5f-3157a8980def.PNG)
+
+
+### Products with gateway : 
+![products 8888](https://user-images.githubusercontent.com/86847138/200060063-dc514efb-1641-44bc-9e37-1f7d0ffa6180.PNG)
