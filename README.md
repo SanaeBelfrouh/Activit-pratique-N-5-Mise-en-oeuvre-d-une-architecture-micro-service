@@ -15,6 +15,8 @@ La création une application basée sur une architecture micro-service qui perme
 ![env](https://github.com/SanaeBelfrouh/Activit-pratique-N-5-Mise-en-oeuvre-d-une-architecture-micro-service/assets/116807307/dcdd6567-4cd6-4525-b926-e4159e83fc4c)
 ### Actuator Beans :
 ![beans](https://github.com/SanaeBelfrouh/Activit-pratique-N-5-Mise-en-oeuvre-d-une-architecture-micro-service/assets/116807307/d13b7feb-205e-4e53-903a-717d4cb04eec)
+2.Créer le micro-service inventory-service qui permet de gérer les produits
+
 
 ![p2](https://github.com/SanaeBelfrouh/Activit-pratique-N-5-Mise-en-oeuvre-d-une-architecture-micro-service/assets/116807307/b9a67d6d-b85c-457e-b4ae-161f8aa35698)
 ![p22](https://github.com/SanaeBelfrouh/Activit-pratique-N-5-Mise-en-oeuvre-d-une-architecture-micro-service/assets/116807307/f07dd1ae-de9f-42a7-b748-39b0952a108f)
